@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Desafio 2</title>
+</head>
+<body>
+
+  <script type="text/javascript">
+
+    var nome = prompt("Qual é o seu nome?");
+    var idade = prompt("Quantos anos você tem?");
+    var estudo = prompt("Qual linguagem de programação você está estudado?")
+
+
+    document.write("Olá " + nome +", você tem " + idade + " anos e já está aprendendo " + estudo)
+
+  </script>
+
+
+</body>
+</html>
